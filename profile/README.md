@@ -13,7 +13,6 @@ Some of the tags that we use are:
 - project: repositories containing ongoing projects
 - research: repositories containing research papers and articles
 - tutorial: repositories containing tutorials and guides
-
 >You can find a full list of tags in our tag documentation.
 
 ## :triangular_ruler:Contribute to our projects
@@ -27,11 +26,13 @@ Some of the tags that we use are:
 question: discussions containing questions
 idea: discussions containing ideas and suggestions
 announcement: discussions containing announcements
-You can find a full list of tags in our tag documentation.
+>You can find a full list of tags in our tag documentation.
 
 We hope that you find your experience with `Informatika Universitas Cordova` to be valuable and enjoyable. If you have any questions or need assistance, please don't hesitate to reach out to our team.
 
 Thank you for joining us!
+---
+Regards,
 
-Workflow Founder of Informatika Universitas Cordova,
+Workflow Founder of Informatika Universitas Cordova
 ``Budi Hartono, S.T``
