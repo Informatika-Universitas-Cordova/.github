@@ -23,9 +23,9 @@ We also have a variety of discussions and forums available for you to participat
 
 Some of the tags that we use are:
 
-question: discussions containing questions
-idea: discussions containing ideas and suggestions
-announcement: discussions containing announcements
+- question: discussions containing questions
+- idea: discussions containing ideas and suggestions
+- announcement: discussions containing announcements
 >You can find a full list of tags in our tag documentation.
 
 We hope that you find your experience with `Informatika Universitas Cordova` to be valuable and enjoyable. If you have any questions or need assistance, please don't hesitate to reach out to our team.
